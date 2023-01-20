@@ -1,4 +1,4 @@
-const ImgValidation = require("./server");
+const ImgValidation = require(".");
 
 const base64Image = require("./base64");
 
